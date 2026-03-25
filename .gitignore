@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# VitePress-specific ignores
+.vitepress/cache/
+.vitepress/dist/
+
+# Editor/OS specific files (optional)
+.DS_Store
+.temp/
+*.tmp*
+npm-debug.log*
+yarn-error.log*
+pnpm-error.log*
