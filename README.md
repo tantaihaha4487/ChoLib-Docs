@@ -4,7 +4,7 @@
 
 ## Documentation
 
-Full documentation is available at [https://tantaihaha4487.github.io/ChoLib/](https://tantaihaha4487.github.io/ChoLib/)
+Full documentation is available at [https://tantaihaha4487.github.io/ChoLib-Docs/](https://tantaihaha4487.github.io/ChoLib-Docs/)
 
 ## Development
 
