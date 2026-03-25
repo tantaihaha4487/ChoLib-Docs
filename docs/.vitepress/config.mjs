@@ -30,7 +30,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/thanachot/ChoLib' }
+      { icon: 'github', link: 'https://github.com/tantaihaha4487/ChoLib' }
     ]
   }
 })
