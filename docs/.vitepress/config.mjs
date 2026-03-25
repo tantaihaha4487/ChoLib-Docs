@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/ChoLib-Docs/',
   title: "ChoLib Docs",
   description: "Shift-activation library for Fabric mods",
   themeConfig: {
